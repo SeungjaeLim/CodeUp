@@ -1,3 +1,3 @@
 # CodeUp
-CodeUp Online Judge solution\n
-https://codeup.kr/userinfo.php?user=seungjaelim
+CodeUp Online Judge solution
+# https://codeup.kr/userinfo.php?user=seungjaelim
